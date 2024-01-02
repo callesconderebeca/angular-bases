@@ -1,0 +1,9 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "accessibility.hideAccessibleView": false,
+    "explorer.expandSingleFolderWorkspaces": true,
+    "workbench.settings.openDefaultKeybindings": false,
+    "workbench.settings.openDefaultSettings": false,
+    "window.autoDetectColorScheme": false,
+    "explorer.compactFolders": false
+}
